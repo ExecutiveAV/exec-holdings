@@ -10,7 +10,7 @@ export default function Home() {
         <button onClick={() => window.location.href='https://www.instagram.com/exec.studios/'}>
           <p>Exec Studios | Insta</p>
         </button>        
-        <button onClick={() => window.location.href='https://alejandro0684.wixsite.com/exec-studios'}>
+        <button onClick={() => window.location.href='https://www.executiveav.com/about-2'}>
           <p>Exec Studios | Web</p>
         </button>
         <button onClick={() => window.location.href='https://www.executiveav.com/'}>
